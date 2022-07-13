@@ -25,7 +25,7 @@ done
 
 ## Install Powerlevel10k Theme
 
-## Install fonts
+### Install fonts
 TODO: write a Powershell and bash script to install these
 
 - MesloLGS NF Regular.ttf
